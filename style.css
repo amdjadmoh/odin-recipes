@@ -1,0 +1,14 @@
+h1{
+    text-decoration:underline;
+    font-weight: 800;
+    font-size: 36px;
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.rlist a:active,.rlist a:visited,.rlist a:hover,.rlist a{
+    font-weight: 400;
+    font-size: 24px;
+    color: black;
+    text-align: left;
+}
